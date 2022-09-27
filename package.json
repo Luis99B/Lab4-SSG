@@ -1,0 +1,27 @@
+{
+  "name": "lab4-ssg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis99B/Lab4-SSG.git"
+  },
+  "author": "Luis Bodart, Michel Lujano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis99B/Lab4-SSG/issues"
+  },
+  "homepage": "https://github.com/Luis99B/Lab4-SSG#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
